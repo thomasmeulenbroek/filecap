@@ -62,12 +62,12 @@ export default {
         return {
             files: [],
             requirements : null,
-            subject: 'Test Subject',
-            comment: 'Test Comment',
-            password : 'aaaaaD55555',
-            repeat: 'aaaaaD55555',
+            subject: 'Subject',
+            comment: 'Comment',
+            password : '',
+            repeat: '',
             sender: sendaddress,
-            recipient: 'thmeulenbroek@gmail.com',
+            recipient: '',
             errors: [],
             storeDays: 5,
             downloadLoadable_value: 10
